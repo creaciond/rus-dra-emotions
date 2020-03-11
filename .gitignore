@@ -107,5 +107,6 @@ venv.bak/
 .DS_Store
 
 # data
-data/dostoevsky_experiment
+data/rusdracor
+data/figures/dostoevsky_experiment
 Untitled.ipynb
