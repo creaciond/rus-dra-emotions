@@ -14,7 +14,13 @@ I'm going to test several approaches and answer the following questions:
 
 ## Contents
 
-to be here
+|**Content**|**File(s)**|**Additional**|
+|:---------:|:---------:|:------------:|
+|downloading data for the experiments|[get_data.py](./get_data.py), [preprocessing.py](./preprocessing.py)|thanks DraCor API!|
+|experiment 1: Russian WordNet package for Python|[wiki_ru_wordnet.ipynb](./wiki_ru_wordnet.ipynb)||
+|experiment 2: out-of-the-box solution, dostoyevsky|[dostoyevsky.ipynb](./dostoyevsky.ipynb)||
+|preparing experiment 3: using sentiment lexicons for Russian to parse plays|[extract_sentiment_from_plays.py](./extract_sentiment_from_plays.py)||
+|experiment 3: analyzing performance of various Russian lexicons of different origins|[lexicons.ipynb](./lexicons.ipynb)||
 
 ## Literature
 
