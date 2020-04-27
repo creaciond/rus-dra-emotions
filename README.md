@@ -1,4 +1,4 @@
-# Sentiment Analysis of Russian Drama
+# Evaluating Sentiment in Russian Drama
 Course paper for the 2019/20 academic year at DH Masters, HSE.
 
 ## About
