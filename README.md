@@ -25,3 +25,13 @@ I'm going to test several approaches and answer the following questions:
 ## Literature
 
 to upload later :)
+
+## Lexicons used in the experiment
+
+|**Lexicon name**|**Year developed**|**Article description**|**Dataset link**|
+|:--------------:|:----------------:|:---------------------:|:--------------:|
+|ProductSentiRus |2012              |[Extraction of Russian Sentiment Lexicon for Product Meta-Domain](https://pdfs.semanticscholar.org/e23b/1430b3c4c4850db1336c5ba9c51c2084f29b.pdf)||
+|EmoLex          |2013              |[Crowdsourcing a Word-Emotion Association](https://arxiv.org/abs/1308.6297)|[link](http://sentiment.nrc.ca/lexicons-for-research/)|
+|Chen-Skiena's Lexicon|2014         |[Building Sentiment Lexicons for All Major Languages](https://www.aclweb.org/anthology/P14-2063.pdf)|[link](https://sites.google.com/site/datascienceslab/projects/multilingualsentiment)|
+|LinisCrowd      |2016              |[An Opinion Word Lexicon and a Training Dataset for Russian Sentiment Analysis of Social Media](http://www.dialog-21.ru/media/3400/koltsovaoyuetal.pdf)|[link](http://www.linis-crowd.org/)|
+|RuSentiLex      |2017              |[Creating a General Russian Sentiment Lexicon](http://www.lrec-conf.org/proceedings/lrec2016/pdf/285_Paper.pdf)|[.txt file](http://www.labinform.ru/pub/rusentilex/rusentilex_2017.txt)|
