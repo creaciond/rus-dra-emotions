@@ -24,7 +24,7 @@ I'm going to test several approaches and answer the following questions:
 
 ## Literature
 
-to upload later :)
+Available as a .bib file: [emotions_drama_literature.bib](./emotions_drama_literature.bib).
 
 ## Lexicons used in the experiment
 
