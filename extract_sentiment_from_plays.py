@@ -96,7 +96,8 @@ def pipeline_analysis_by_line(lexicons_dict, play_list, mystem):
         "EmoLex": [], 
         "LinisCrowd": [],
         "ChenSkiena": [], 
-        "ProductSentiRus": []
+        "ProductSentiRus": [],
+        "SentiRusColl": []
     }
     for play_name in tqdm(play_list):
         # load drama lines
