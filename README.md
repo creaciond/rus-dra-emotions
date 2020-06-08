@@ -21,6 +21,7 @@ I'm going to test several approaches and answer the following questions:
 |experiment 2: out-of-the-box solution, dostoyevsky|[dostoyevsky.ipynb](./dostoyevsky.ipynb)||
 |preparing experiment 3: using sentiment lexicons for Russian to parse plays|[extract_sentiment_from_plays.py](./extract_sentiment_from_plays.py)||
 |experiment 3: analyzing performance of various Russian lexicons of different origins|[lexicons.ipynb](./lexicons.ipynb)||
+|diving into emotional lines: most frequest items and word clouds|[emotional_lines.ipynb](./emotional_lines.ipynb)||
 
 ## Literature
 
